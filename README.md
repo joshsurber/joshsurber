@@ -4,13 +4,10 @@
 
 I've been doing web development as a hobby for over 20 years. Like most, I realized I wasn't happy with my career during the pandemic, and am looking to turn my hobby into a career
 
-- 🌍  I'm based in San Antonio
-- 🖥️  See my portfolio at [surber.us/portfolio](http://surber.us)
-- ✉️  You can contact me at [josh@surber.us](mailto:josh@surber.us)
-- 🚀  I'm currently working on [nothing](http://nothing)
+- 🌍  I'm based in San Antonio <!-- - 🖥️  See my portfolio at [surber.us/portfolio](http://surber.us) -->
+- ✉️  You can contact me at [josh@surber.us](mailto:josh@surber.us) <!-- - 🚀  I'm currently working on [nothing](http://nothing) -->
 - 🧠  I'm learning eleventy and react
-- 🤝  I'm open to collaborating on front end projects
-<!-- * ⚡  foo -->
+- 🤝  I'm open to collaborating on front end projects <!-- * ⚡  foo -->
 
 ### Skills
 
