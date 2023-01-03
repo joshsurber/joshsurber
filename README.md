@@ -8,6 +8,13 @@ I've been doing web development as a hobby for over 20 years. Like most, I reali
 - ✉️  You can contact me at [josh@surber.us](mailto:josh@surber.us) <!-- - 🚀  I'm currently working on [nothing](http://nothing) -->
 - 🧠  I'm learning eleventy and react
 - 🤝  I'm open to collaborating on front end projects <!-- * ⚡  foo -->
+- 📄  My resume
+    [text/markdown](https://joshsurber.github.io/joshsurber/resume/resume.md) |
+    [html](https://joshsurber.github.io/joshsurber/resume/) |
+    [pdf](https://joshsurber.github.io/joshsurber/resume/JoshSurberResume.pdf) |
+    [docx](https://joshsurber.github.io/joshsurber/resume/JoshSurberResume.docx) |
+    [rtf](https://joshsurber.github.io/joshsurber/resume/JoshSurberResume.rtf)
+
 
 ### Skills
 
