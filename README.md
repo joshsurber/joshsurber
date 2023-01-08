@@ -11,7 +11,7 @@ turn my hobby into a new career
 - ✉️ You can contact me at [josh@surber.us](mailto:josh@surber.us) <!-- - 🚀  I'm currently working on [nothing](http://nothing) -->
 - 🧠 I'm learning React
 - 🤝 I'm open to collaborating on front end projects
-* ⚡ I spend whatever time I can in the woods, doing bushcraft
+- ⚡ I spend whatever time I can in the woods, doing bushcraft
 - 📄 My CV/resume is online
     **[text/markdown](https://joshsurber.github.io/joshsurber/resume/resume.md)** |
     [html](https://joshsurber.github.io/joshsurber/resume/) |
