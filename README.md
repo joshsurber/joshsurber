@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Josh Surber
 
- **Founder, Cross Key Studios**
+**Founder, Cross Key Studios**
 
 I've been doing web development as a hobby for over 20 years. Like most, I
 realized I wasn't happy with my career during the pandemic, and am looking to

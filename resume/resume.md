@@ -1,5 +1,7 @@
 % Josh Surber's Resume
 
+<style>li li{display:inline}li li+li::before{content:' | '}</style>
+
 :::Contact
 
 - San Antonio, TX 78245
@@ -17,9 +19,9 @@ development experience, into an established company.
 ## PROFESSIONAL SUMMARY
 
 Keep operations efficient and smooth by delivering successful leadership and
-team management at all levels. Experienced in administering budgets, overseeing
-personnel needs and solving routine and complex problems. Proactive in
-capturing new customers and business opportunities.
+team management at all levels. Experienced in administering budgets,
+overseeing personnel needs and solving routine and complex problems. Proactive
+in capturing new customers and business opportunities.
 
 ## SKILLS
 
@@ -40,74 +42,6 @@ capturing new customers and business opportunities.
 - Budget development
 - Efficient multitasker
 - Operations management
-
-## WORK HISTORY
-
-### FREELANCE WEB DEVELOPER, _Cross Key Studios_
-
-2003 - present
-
-- Generate and convert leads
-- Find what the client needs using probing questions
-- Create proposals based on needs and value-based pricing
-- Create and deliver a site meeting the clients needs
-- Ongoing maintenance of site based on client's contract
-
-### STARBUCKS LEAD, _Target_
-
-July 2022 -- present
-
-- Ensure proper training of 10-12 team members
-- Hold my team accountable for results based on profitability and customer
-  satisfaction survey
-- Maintain cleanliness and sanitation of café area
-
-### STORE MANAGER, _Starbucks_
-
-November 2020 -- June 2022
-
-- Oversee hiring and training of 35-40 team members using company training
-  system
-- Maintained cleanliness and presentation of restaurant
-- Held my teams accountable to deliver product quality and safety
-- Ensured industry-leading food safety standards
-- Troubleshoot POS and other restaurant technology
-- Preform preventative maintenance on equipment to save on costly repairs
-
-### ACADEMY TRAINER, _Walmart NHM_
-
-March 2020 -- November 2020
-
-- Ensure training of 6-8 team members
-- Oversaw inventory control and ordering of products to keep products in stock
-- Created feature displays to drive sales
-- Tracked sales and other metrics to drive profitability
-
-### GENERAL MANAGER, _Whataburger_
-
-February 2012 -- February 2020
-
-- Oversaw inventory by ordering precise quantities of stock and executing
-  corrective actions to drive profitability
-- Maximized efficiency by coaching and mentoring 50-60 personnel on food
-  safety principles, industry practices and company procedures
-- Assessed financial statements and P&L reports to evaluate performance,
-  develop targeted improvements and implement changes resulting in a gross
-  operating profit of 3-5%
-- Utilized cleaning and maintenance schedules to ensure operation was sanitary,
-  and all equipment was operating at peak efficiency
-- Develop familiarity with all technology for purposes of troubleshooting.
-- Managed budget implementations, employee reviews, training and schedules
-- Organized budgets, oversaw P&Ls and achieved margin targets consistently to
-  stay on track with growth plans
-- Increased revenue streams by reducing costs, managing schedules and
-  performing variance and risk analysis to implement corrective actions
-- Received superior customer service satisfaction scores for 13 consecutive
-  quarters
-- Reviewed performance data to monitor and measure productivity, goal progress
-  and activity levels
-- Enhanced operational success through effective staffing, strong training,
-  adherence to safety regulations and well-timed customer service
 
 ## TECH STACK
 
@@ -144,8 +78,76 @@ February 2012 -- February 2020
   - [RedHat](http://redhat.com)
   - [Ubuntu](http://ubuntu.com)
 
-## REFERENCES
+## WORK HISTORY
 
-Available upon request
+### FREELANCE WEB DEVELOPER, _Cross Key Studios_
 
-<!-- vim: set ft=markdown : -->
+2003 - present
+
+- Generate and convert leads
+- Created a reputation for giving the client what they need even when they
+  don't know
+- Generated clear and concise proposals and contracts based on customer needs
+  and value-based pricing
+- Create and deliver a site meeting the clients' needs
+- Ongoing maintenance of sites past launch
+
+### STARBUCKS LEAD, _Target_
+
+July 2022 -- present
+
+- Utilize a well-established training plan to properly develop 10-12 team
+  members as Starbucks-certified baristas
+- Hold my team accountable for results as measured by profitability and
+  customer satisfaction survey
+- Maintain cleanliness and sanitation of café area
+
+### STORE MANAGER, _Starbucks_
+
+November 2020 -- June 2022
+
+- Oversee hiring and training of 35-40 team members using company training
+  systems
+- Maintained cleanliness and presentation of restaurant
+- Held my teams accountable to deliver product quality and safety
+- Ensured industry-leading food safety standards
+- Troubleshoot POS and other restaurant technology
+- Preform preventative maintenance on equipment to save on costly repairs
+
+### ACADEMY TRAINER, _Walmart NHM_
+
+March 2020 -- November 2020
+
+- Utilize company-approved training systems to ensure all members of my team
+  were well-equipped to preform the tasks of their jobs
+- Oversaw inventory control and ordering of products to keep products in stock
+- Created feature displays to drive sales
+- Tracked sales and other metrics to drive profitability
+
+### GENERAL MANAGER, _Whataburger_
+
+February 2012 -- February 2020
+
+- Oversaw inventory by ordering precise quantities of stock and executing
+  corrective actions to drive profitability
+- Maximized efficiency by coaching and mentoring 50-60 personnel on food
+  safety principles, industry practices and company procedures
+- Assessed financial statements and P&L reports to evaluate performance,
+  develop targeted improvements and implement changes resulting in a gross
+  operating profit of 3-5%
+- Utilized cleaning and maintenance schedules to ensure operation was sanitary,
+  and all equipment was operating at peak efficiency
+- Develop familiarity with all technology for purposes of troubleshooting.
+- Managed budget implementations, employee reviews, training and schedules
+- Organized budgets, oversaw P&Ls and achieved margin targets consistently to
+  stay on track with growth plans
+- Increased revenue streams by reducing costs, managing schedules and
+  performing variance and risk analysis to implement corrective actions
+- Received superior customer service satisfaction scores for 13 consecutive
+  quarters
+- Reviewed performance data to monitor and measure productivity, goal progress
+  and activity levels
+- Enhanced operational success through effective staffing, strong training,
+  adherence to safety regulations and well-timed customer service
+
+<!-- vim: set ft=markdown tw=80 cc=80 : -->
