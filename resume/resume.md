@@ -46,34 +46,36 @@ in capturing new customers and business opportunities.
 ## TECH STACK
 
 - **Applications**
-  - [gSuite](http://workspace.google.com)
+  - **[gSuite](http://workspace.google.com)**
   - [MS Office](http://office.com)
   - [VSCode](http://code.visualstudio.com)
-  - [Vim](http://vim.org)/[NeoVim](http://neovim.io)
+  - [Vim](http://vim.org)/**[NeoVim](http://neovim.io)**
 - **Design**
-  - [CSS](https://www.w3.org/TR/CSS)
-  - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-  - [Liquid](http://liquidjs.com)
-  - [Markdown](http://markdownguide.org)
-  - [Sass](https://sass-lang.com)
+  - **[CSS](https://www.w3.org/TR/CSS)**
+  - **[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)**
+  - **[Liquid](http://liquidjs.com)**
+  - **[Markdown](http://markdownguide.org)**
+  - **[Sass](https://sass-lang.com)**
 - **Programming**
-  - [11ty](http://11ty.dev)
-  - [Git](http://git-scm.org)/[GitHub](http://github.com)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - **[11ty](http://11ty.dev)**
+  - **[Git](http://git-scm.org)**/**[GitHub](http://github.com)**
+  - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
   - [jQuery](https://jquery.com)
-  - [Lua](http://lua.org)
-  - [Node](http://nodejs.org)
+  - **[Lua](http://lua.org)**
+  - **[Node](http://nodejs.org)**
   - [PHP](https://www.php.net/)
   - [WordPress](http://wordpress.org)
 - **Database**
   - [MariaDB](http://mariadb.org)
   - [MySQL](https://www.mysql.com)
   - [PostgreSQL](https://www.postgresql.org)
-  - [SQLite](http://sqlite.org)
+  - **[SQLite](http://sqlite.org)**
 - **Linux**
+  - **[Arch](http://archlinux.org)**
   - [Debian](http://debian.org)
   - [Fedora](http://getfedora.org)
   - [Kali](http://kali.org)
+  - [Manjaro](http://manjaro.org)
   - [Mint](http://linuxmint.com)
   - [RedHat](http://redhat.com)
   - [Ubuntu](http://ubuntu.com)
