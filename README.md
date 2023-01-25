@@ -12,6 +12,7 @@ turn my hobby into a new career
 - 🧠 I'm learning React
 - 🤝 I'm open to collaborating on front end projects
 - ⚡ I spend whatever time I can in the woods, doing bushcraft
+- 🔒 You can encrypt or sign messages to [my public key](https://joshsurber.github.io/joshsurber/joshsurber.pub.asc)
 - 📄 My CV/resume is online
     **[text/markdown](https://joshsurber.github.io/joshsurber/resume/resume.md)** |
     [html](https://joshsurber.github.io/joshsurber/resume/) |
