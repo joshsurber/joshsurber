@@ -18,10 +18,10 @@ pdf: init
 	--output=$(OUTPUT_PDF) \
 	--pdf-engine=wkhtmltopdf \
 	--css=$(STYLE) \
-	--metadata=margin-left:0 \
-	--metadata=margin-right:0 \
-	--metadata=margin-top:0 \
-	--metadata=margin-bottom:0
+	--metadata=margin-left:0.5in \
+	--metadata=margin-right:0.5in \
+	--metadata=margin-top:0.5in \
+	--metadata=margin-bottom:0.5in
 
 html: init
 	pandoc $(INPUT) \

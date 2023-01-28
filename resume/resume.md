@@ -12,9 +12,8 @@
 
 ## OBJECTIVE
 
-Bring over 20 years of expertise in relationship-building from managing food
-service and retail environments, as well as 20 years in freelance web
-development experience, into an established company.
+Bring over twenty years of expertise in relationship-building from both
+freelance web development and retail management into an established company.
 
 ## PROFESSIONAL SUMMARY
 
@@ -26,20 +25,21 @@ in capturing new customers and business opportunities.
 ## SKILLS
 
 - Client account management
+- Operations management
 - Relationship building
-- Recruitment
 - Customer service-oriented
+- Microsoft Office
+- Budgeting/budget development
+- Recruitment
 - Effective leader
 - Organized
 - Verbal and written communication
 - Consistently meet goals
-- Budgeting
 - Staff training/development
 - Coaching and mentoring
 - Sale expertise
 - Conflict resolution
 - Employee scheduling
-- Budget development
 - Efficient multitasker
 - Operations management
 
@@ -84,11 +84,11 @@ in capturing new customers and business opportunities.
 
 ### FREELANCE WEB DEVELOPER, _Cross Key Studios_
 
-2003 - present
+2003 - present, _San Antonio, TX_
 
 - Generate and convert leads
 - Created a reputation for giving the client what they need even when they
-  don't know
+  don't know what they are looking for
 - Generated clear and concise proposals and contracts based on customer needs
   and value-based pricing
 - Create and deliver a site meeting the clients' needs
@@ -96,7 +96,7 @@ in capturing new customers and business opportunities.
 
 ### STARBUCKS LEAD, _Target_
 
-July 2022 -- present
+July 2022 -- present, _San Antonio, TX_
 
 - Utilize a well-established training plan to properly develop 10-12 team
   members as Starbucks-certified baristas
@@ -106,7 +106,7 @@ July 2022 -- present
 
 ### STORE MANAGER, _Starbucks_
 
-November 2020 -- June 2022
+November 2020 -- June 2022, _Richardson, TX_
 
 - Oversee hiring and training of 35-40 team members using company training
   systems
@@ -118,7 +118,7 @@ November 2020 -- June 2022
 
 ### ACADEMY TRAINER, _Walmart NHM_
 
-March 2020 -- November 2020
+March 2020 -- November 2020, _McKinney, TX_
 
 - Utilize company-approved training systems to ensure all members of my team
   were well-equipped to preform the tasks of their jobs
@@ -128,7 +128,7 @@ March 2020 -- November 2020
 
 ### GENERAL MANAGER, _Whataburger_
 
-February 2012 -- February 2020
+February 2012 -- February 2020, _Carrollton, TX_
 
 - Oversaw inventory by ordering precise quantities of stock and executing
   corrective actions to drive profitability
@@ -151,5 +151,3 @@ February 2012 -- February 2020
   and activity levels
 - Enhanced operational success through effective staffing, strong training,
   adherence to safety regulations and well-timed customer service
-
-<!-- vim: set ft=markdown tw=80 cc=80 : -->
