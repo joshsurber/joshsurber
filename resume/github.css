@@ -716,14 +716,14 @@ body hr {
   border-bottom-color: #eee;
 }
 
-li ul {
+body li ul {
   list-style: none;
   display: inline-block;
   padding: 0;
 }
-li li {
-  display: inline-block;
+body li li {
+    display: inline-block;
 }
-li li::before {
+body li li::before {
   content: " | ";
 }

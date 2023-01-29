@@ -1,7 +1,5 @@
 % Josh Surber's Resume
 
-<style>li li{display:inline}li li+li::before{content:' | '}</style>
-
 :::Contact
 
 - San Antonio, TX 78245
