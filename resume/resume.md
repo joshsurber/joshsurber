@@ -80,16 +80,19 @@ in capturing new customers and business opportunities.
 
 ## WORK HISTORY
 
-### FREELANCE WEB DEVELOPER, _Cross Key Studios_
+### FULL STACK WEB DEVELOPER, _Cross Key Studios_
 
 2003 - present, _San Antonio, TX_
 
+- Design, create, and deliver sites to meet clients' needs using HTML5 and
+  CSS3
+- Set up and customize CMS solutions appropriate for the client's needs, such
+  as WordPress, 11ty, or a custom-made solution
 - Generate and convert leads
 - Created a reputation for giving the client what they need even when they
   don't know what they are looking for
 - Generated clear and concise proposals and contracts based on customer needs
   and value-based pricing
-- Create and deliver a site meeting the clients' needs
 - Ongoing maintenance of sites past launch
 
 ### STARBUCKS LEAD, _Target_
