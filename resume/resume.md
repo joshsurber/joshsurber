@@ -23,10 +23,10 @@ in capturing new customers and business opportunities.
 ## SKILLS
 
 - Client account management
+- Linux server administration
 - Operations management
 - Relationship building
 - Customer service-oriented
-- Microsoft Office
 - Budgeting/budget development
 - Recruitment
 - Effective leader
@@ -44,32 +44,32 @@ in capturing new customers and business opportunities.
 ## TECH STACK
 
 - **Applications**
-  - **[gSuite](http://workspace.google.com)**
+  - [gSuite](http://workspace.google.com)
   - [MS Office](http://office.com)
   - [VSCode](http://code.visualstudio.com)
-  - [Vim](http://vim.org)/**[NeoVim](http://neovim.io)**
+  - [Vim](http://vim.org)/[NeoVim](http://neovim.io)
 - **Design**
-  - **[CSS](https://www.w3.org/TR/CSS)**
-  - **[HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)**
-  - **[Liquid](http://liquidjs.com)**
-  - **[Markdown](http://markdownguide.org)**
-  - **[Sass](https://sass-lang.com)**
+  - [CSS](https://www.w3.org/TR/CSS)
+  - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+  - [Liquid](http://liquidjs.com)
+  - [Markdown](http://markdownguide.org)
+  - [Sass](https://sass-lang.com)
 - **Programming**
-  - **[11ty](http://11ty.dev)**
-  - **[Git](http://git-scm.org)**/**[GitHub](http://github.com)**
-  - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+  - [11ty](http://11ty.dev)
+  - [Git](http://git-scm.org)/[GitHub](http://github.com)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [jQuery](https://jquery.com)
-  - **[Lua](http://lua.org)**
-  - **[Node](http://nodejs.org)**
+  - [Lua](http://lua.org)
+  - [Node](http://nodejs.org)
   - [PHP](https://www.php.net/)
   - [WordPress](http://wordpress.org)
 - **Database**
   - [MariaDB](http://mariadb.org)
   - [MySQL](https://www.mysql.com)
   - [PostgreSQL](https://www.postgresql.org)
-  - **[SQLite](http://sqlite.org)**
-- **Linux**
-  - **[Arch](http://archlinux.org)**
+  - [SQLite](http://sqlite.org)
+- **Linux servers**
+  - [Arch](http://archlinux.org)
   - [Debian](http://debian.org)
   - [Fedora](http://getfedora.org)
   - [Kali](http://kali.org)
@@ -82,12 +82,13 @@ in capturing new customers and business opportunities.
 
 ### FULL STACK WEB DEVELOPER, _Cross Key Studios_
 
-2003 - present, _San Antonio, TX_
+2003 -- present, _San Antonio, TX_
 
 - Design, create, and deliver sites to meet clients' needs using HTML5 and
   CSS3
 - Set up and customize CMS solutions appropriate for the client's needs, such
   as WordPress, 11ty, or a custom-made solution
+- Set up and manage servers and networks
 - Generate and convert leads
 - Created a reputation for giving the client what they need even when they
   don't know what they are looking for
@@ -97,7 +98,7 @@ in capturing new customers and business opportunities.
 
 ### STARBUCKS LEAD, _Target_
 
-July 2022 -- present, _San Antonio, TX_
+July 2022 -- January 2023, _San Antonio, TX_
 
 - Utilize a well-established training plan to properly develop 10-12 team
   members as Starbucks-certified baristas
