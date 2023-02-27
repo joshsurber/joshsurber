@@ -96,37 +96,18 @@ in capturing new customers and business opportunities.
   and value-based pricing
 - Ongoing maintenance of sites past launch
 
-### STARBUCKS LEAD, _Target_
+### STARBUCKS STORE MANAGER, _Starbucks/Target_
 
-July 2022 -- January 2023, _San Antonio, TX_
+November 2020 -- January 2023, _San Antonio, TX_
 
-- Utilize a well-established training plan to properly develop 10-12 team
+- Utilize a well-established training plan to properly develop 10-40 team
   members as Starbucks-certified baristas
 - Hold my team accountable for results as measured by profitability and
   customer satisfaction survey
-- Maintain cleanliness and sanitation of café area
-
-### STORE MANAGER, _Starbucks_
-
-November 2020 -- June 2022, _Richardson, TX_
-
-- Oversee hiring and training of 35-40 team members using company training
-  systems
-- Maintained cleanliness and presentation of restaurant
-- Held my teams accountable to deliver product quality and safety
+- Maintain cleanliness, presentation and sanitation of café area
 - Ensured industry-leading food safety standards
 - Troubleshoot POS and other restaurant technology
 - Preform preventative maintenance on equipment to save on costly repairs
-
-### ACADEMY TRAINER, _Walmart NHM_
-
-March 2020 -- November 2020, _McKinney, TX_
-
-- Utilize company-approved training systems to ensure all members of my team
-  were well-equipped to preform the tasks of their jobs
-- Oversaw inventory control and ordering of products to keep products in stock
-- Created feature displays to drive sales
-- Tracked sales and other metrics to drive profitability
 
 ### GENERAL MANAGER, _Whataburger_
 
