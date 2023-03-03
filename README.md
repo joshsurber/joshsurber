@@ -9,7 +9,7 @@ turn my hobby into a new career
 - 🌍 I'm based in San Antonio
 - 🖥️ See my portfolio at [surber.us/portfolio](http://surber.us)
 - ✉️ You can contact me at [josh@surber.us](mailto:josh@surber.us) <!-- - 🚀  I'm currently working on [nothing](http://nothing) -->
-- 🧠 I'm learning React
+- 🧠 I'm learning React and Lua
 - 🤝 I'm open to collaborating on front end projects
 - ⚡ I spend whatever time I can in the woods, doing bushcraft
 - 🔒 You can encrypt or sign messages to [my public key](https://joshsurber.github.io/joshsurber/joshsurber.pub.asc)
