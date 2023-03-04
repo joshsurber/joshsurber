@@ -10,6 +10,18 @@ OUTPUT_RTF=$(OUTPUT).rtf
 
 all: html pdf docx rtf
 
+tech:
+	rm -f resume.md
+	ln -s tech.md resume.md
+
+housing:
+	rm -f resume.md
+	ln -s housing.md resume.md
+
+food:
+	rm -f resume.md
+	ln -s food.md resume.md
+
 pdf: init
 	pandoc $(INPUT) \
 	--standalone \
