@@ -10,8 +10,9 @@
 
 ## OBJECTIVE
 
-Bring over twenty years of expertise in relationship-building from both
-freelance web development and retail management into an established company.
+Bring over twenty years of expertise in relationship-building and management
+experience into a growing company, with a goal of multi-unit leadership within
+5--7 years.
 
 ## PROFESSIONAL SUMMARY
 
