@@ -2,8 +2,8 @@
 
 :::Contact
 
-- San Antonio, TX 78245
-- 321-J-SURBER (321-578-7237)
+- San Antonio, TX
+- 321-J-SURBER
 - <josh@surber.us>
 - <https://github.com/joshsurber>
 - <https://linkedin.com/in/joshsurber>
