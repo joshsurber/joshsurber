@@ -18,15 +18,6 @@ customers, dream big, work big and build big, and never take no for an answer.
 
 ## SKILLS
 
-- Linux server administration
-- Relationship building
-- Customer service-oriented
-- Organized
-- Verbal and written communication
-- Consistently meet goals
-- Efficient multitasker
-- Operations management
-- Creating and optimizing tech work-flows
 - **Front end**
   - [CSS](https://www.w3.org/TR/CSS) ★★★★★
   - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) ★★★★★
@@ -60,29 +51,21 @@ customers, dream big, work big and build big, and never take no for an answer.
 
 #### SELECTED PROJECTS
 
-##### [surber.us](https://surber.us) (2023)
-
-(Source at <https://github.com/joshsurber/surber.us>)
+##### [surber.us](https://surber.us) (2023, source at <https://github.com/joshsurber/surber.us>)
 
 I use my personal site to try out new things I'm learning. Over the years it
 has been a static group of pages, a LiveJournal, a TextPattern site, a WordPress
 site, a Jekyll site, numerous custom-made CMS solutions using PHP and MySQL,
 and most recently, 11ty.
 
-I love front end development, and enjoy HTML, CSS, and JavaScript.
-
-##### [TnT Cakery](https://tntcakery.com) (2022)
-
-(Source at <https://github.com/joshsurber/tntcakery.com>)
+##### [TnT Cakery](https://tntcakery.com) (2022, source at <https://github.com/joshsurber/tntcakery.com>)
 
 - Worked with client to develop a web presence (domain, logo, color scheme,
   and more)
 - Implemented site using HTML, CSS, and JavaScript
 - Utilized Netlify CMS and 11ty for hosting
 
-##### [IGNiTE GOD'S LITE](https://ignite-gods-lite.com) (2022)
-
-(Source at <https://github.com/joshsurber/ignite-gods-lite.com>)
+##### [IGNiTE GOD'S LITE](https://ignite-gods-lite.com) (2022, source at <https://github.com/joshsurber/ignite-gods-lite.com>)
 
 - Implemented an end-to-end site redesign while working with the client to
   retain certain elements & aesthetics. Written in custom HTML and CSS with
@@ -96,10 +79,14 @@ I love front end development, and enjoy HTML, CSS, and JavaScript.
 
 November 2020 -- January 2023
 
-I led a team ranging from 12 -- 30 with a focus on customer experience and cleanliness.
+I led a team ranging from 12 -- 30 with a focus on customer experience and
+cleanliness. By being customer service oriented, I built relationships with
+peers, employees, customers, and vendors.
 
 ### GENERAL MANAGER, _Whataburger_
 
 February 2012 -- February 2020
 
-I led a team of 45 -- 65 focusing on coaching and development.
+I led a team of 45 -- 65 focusing on coaching and development. I consistently
+met goals of sales, labor, food cost, and cleanliness standards by training
+and delegating effectively.
