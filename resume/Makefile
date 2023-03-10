@@ -14,6 +14,10 @@ tech:
 	rm -f resume.md
 	ln -s tech.md resume.md
 
+hotel:
+	rm -f resume.md
+	ln -s hotels.md resume.md
+
 housing:
 	rm -f resume.md
 	ln -s housing.md resume.md
