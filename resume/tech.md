@@ -51,6 +51,12 @@ customers, dream big, work big and build big, and never take no for an answer.
 
 #### SELECTED PROJECTS
 
+##### [Asclepius MD](https://asclepiusmd.com/) (2023)
+
+I was part of the three-person team who prepared the site for launch by setting
+up the Shopify site, integrating Stripe payments, and ensuring the site was
+performant and had great SEO.
+
 ##### [surber.us](https://surber.us) (2023, source at <https://github.com/joshsurber/surber.us>)
 
 I use my personal site to try out new things I'm learning. Over the years it
