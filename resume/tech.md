@@ -45,17 +45,18 @@ customers, dream big, work big and build big, and never take no for an answer.
 
 ## WORK HISTORY
 
+<!-- ### WEB DEVELOPER, _Solera_ -->
+<!---->
+<!-- April 2023 -- present -->
+<!---->
+<!-- I have ownership of the project of folding over 300 smaller sites from -->
+<!-- acquisitions into one master WordPress site without any downtime. -->
+
 ### DEVELOPER/OWNER (part-time), _cross key studios_
 
 2013 -- present
 
 #### SELECTED PROJECTS
-
-##### [Asclepius MD](https://asclepiusmd.com/) (2023)
-
-I was part of the three-person team who prepared the site for launch by setting
-up the Shopify site, integrating Stripe payments, and ensuring the site was
-performant and had great SEO.
 
 ##### [surber.us](https://surber.us) (2023, source at <https://github.com/joshsurber/surber.us>)
 
@@ -63,6 +64,12 @@ I use my personal site to try out new things I'm learning. Over the years it
 has been a static group of pages, a LiveJournal, a TextPattern site, a WordPress
 site, a Jekyll site, numerous custom-made CMS solutions using PHP and MySQL,
 and most recently, 11ty.
+
+##### [Asclepius MD](https://asclepiusmd.com/) (2023)
+
+* Worked as part of a remote, three-person team to prepare the site for launch.
+* Set up the base Shopify site and integrated Stripe payment gateway.
+* Ensured performance and SEO, as well as testing responsive browser compaitbility across a wide range of devices
 
 ##### [TnT Cakery](https://tntcakery.com) (2022, source at <https://github.com/joshsurber/tntcakery.com>)
 
