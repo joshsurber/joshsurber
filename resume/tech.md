@@ -27,6 +27,7 @@ customers, dream big, work big and build big, and never take no for an answer.
   - [Node](http://nodejs.org) ★★★☆☆
   - [PHP](https://www.php.net/) ★★★★☆
   - [WordPress](http://wordpress.org) ★★★★☆
+  - [elementor](https://elementor.com/) ★★★☆☆
   - [11ty](http://11ty.dev) ★★★☆☆
 - **Tools**
   - [Git](http://git-scm.org) ★★★☆☆
@@ -34,6 +35,7 @@ customers, dream big, work big and build big, and never take no for an answer.
   - [Liquid](http://liquidjs.com) ★★★★☆
   - [Markdown](http://markdownguide.org) ★★★★★
   - [Sass](https://sass-lang.com) ★★★★☆
+  - [SalesForce](https://salesforce.com) ★★★☆☆
 - **Database**
   - [MySQL](https://www.mysql.com) ★★★★☆
   - [PostgreSQL](https://www.postgresql.org) ★★★☆☆
@@ -51,10 +53,16 @@ customers, dream big, work big and build big, and never take no for an answer.
 <!---->
 <!-- I have ownership of the project of folding over 300 smaller sites from -->
 <!-- acquisitions into one master WordPress site without any downtime. -->
+<!-- Commenting out as I've been selected for tho position but haven't received the -->
+<!-- offer letter yet -->
 
 ### DEVELOPER/OWNER (part-time), _cross key studios_
 
 2013 -- present
+
+cross key studios contracts as the primary web developer of
+[Prime Web Design](http://primewebsa.com), in addition to several solo
+projects.
 
 #### SELECTED PROJECTS
 
@@ -69,7 +77,7 @@ and most recently, 11ty.
 
 * Worked as part of a remote, three-person team to prepare the site for launch.
 * Set up the base Shopify site and integrated Stripe payment gateway.
-* Ensured performance and SEO, as well as testing responsive browser compaitbility across a wide range of devices
+* Ensured performance and SEO, as well as testing responsive browser compatibility across a wide range of devices
 
 ##### [TnT Cakery](https://tntcakery.com) (2022, source at <https://github.com/joshsurber/tntcakery.com>)
 
@@ -87,6 +95,15 @@ and most recently, 11ty.
   packet and calendar invite
 - New site resulted in over 50 hours of work saved and hundreds of dollars in
   hosting fees
+
+### TECH SUPPORT SPECIALIST, _Office Ally_
+
+March 2023 -- Present
+
+I am on the team offering customer-facing phone technical support for the
+Office Ally suite of applications used to manage medical practices. I helped
+troubleshoot problems from users from single-person chiropractic practices to
+entire hospitals.
 
 ### STARBUCKS STORE MANAGER, _Starbucks/Target_
 
