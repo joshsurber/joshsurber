@@ -2,10 +2,10 @@
 
 :::Contact
 
-- San Antonio, TX
-- 321-J-SURBER
-- [josh@surber.us](mailto:josh@surber.us)
-- [GitHub](https://github.com/joshsurber) | [LinkedIn](https://linkedin.com/in/joshsurber)
+* San Antonio, TX
+* 321-J-SURBER
+* [josh@surber.us](mailto:josh@surber.us)
+* [GitHub](https://github.com/joshsurber) | [LinkedIn](https://linkedin.com/in/joshsurber)
 
 :::
 
@@ -20,32 +20,32 @@ to deliver high-quality web solutions that enhance user experience.
 
 ### Front-End Development
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **jQuery**
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 ### Back-End Development
 
-- **Node.js**
-- **PHP**
-- **WordPress**
-- **Elementor**
-- **11ty**
+- Node.js
+- PHP
+- WordPress
+- Elementor
+- 11ty
 
 ### Tools
 
-- **Git**
-- **VSCode**
-- **Liquid**
-- **Markdown**
-- **Sass**
+- Git
+- VSCode
+- Liquid
+- Markdown
+- Sass
 
 ### Database Management
 
-- **MySQL**
-- **PostgreSQL**
-- **MariaDB**
+- MySQL
+- PostgreSQL
+- MariaDB
 
 ### Operating Systems
 
