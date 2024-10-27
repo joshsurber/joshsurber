@@ -16,6 +16,8 @@ dynamic and responsive web applications. Seeking to leverage my expertise in
 HTML, CSS, and JavaScript, combined with my commitment to user-centered design,
 to deliver high-quality web solutions that enhance user experience.
 
+::: Skills
+
 ## SKILLS
 
 ### Front-End Development
@@ -56,6 +58,8 @@ to deliver high-quality web solutions that enhance user experience.
 - Responsive design
 - Cross-browser compatibility
 - Performance optimization
+
+:::
 
 ## WORK HISTORY
 
