@@ -9,10 +9,9 @@ turn my hobby into a new career
 - 🌍 I'm based in San Antonio
 - 🖥️ See my portfolio at [surber.us/portfolio](http://surber.us)
 - ✉️ You can contact me at [josh@surber.us](mailto:josh@surber.us) <!-- - 🚀  I'm currently working on [nothing](http://nothing) -->
-- 🧠 I'm learning React and Lua
+- 🧠 I'm learning Lua
 - 🤝 I'm open to collaborating on front end projects
 - ⚡ I spend whatever time I can in the woods, doing bushcraft
-- 🔒 You can encrypt or sign messages to [my public key](https://joshsurber.github.io/joshsurber/joshsurber.pub.asc)
 - 📄 My CV/resume is online
   **[text/markdown](https://joshsurber.github.io/joshsurber/resume/resume.md)** |
   [html](https://joshsurber.github.io/joshsurber/resume/) |
@@ -32,13 +31,14 @@ turn my hobby into a new career
 [<img src="icons/skills/bootstrap.svg" alt="Bootstrap" width="36">](https://getbootstrap.com/)
 [<img src="icons/skills/nodejs.svg" alt="NodeJS" width="36">](https://nodejs.org/en/)
 [<img src="icons/skills/mysql.svg" alt="MySQL" width="36">](https://www.mysql.com/)
-[<img src="icons/skills/postgresql.svg" alt="PostgreSQL" width="36">](https://www.postgresql.org/)
 
 ## Socials
 
 [<img src="icons/socials/github.svg" alt="GitHub" width="32">](https://www.github.com/joshsurber)
 [<img src="icons/socials/linkedin.svg" alt="LinkedIn" width="32">](https://www.linkedin.com/in/joshsurber) <!-- [<img src="icons/socials/rss.svg" alt="RSS" width="32">](https://surber.us/index.rss) -->
 [<img src="icons/socials/stackoverflow.svg" alt="StackOverflow" width="32">](https://www.stackoverflow.com/users/joshsurber)
+[<img src="icons/socials/bluesky.svg" alt="BlueSky" width="32">](https://bsky.app/profile/surber.us)
+
 
 ## My GitHub Stats
 
